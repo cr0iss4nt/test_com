@@ -1,10 +1,10 @@
-#TEST_TEXT
-The quick brown fox jumps over the lazy dog.
+#TEST_TEXT\n
+The quick brown fox jumps over the lazy dog.\n
 
-
-#FIRST
-##SECOND
-###THIRD
-####FOURTH
-#####FIFTH
-######SIXTH
+\n
+#FIRST\n
+##SECOND\n
+###THIRD\n
+####FOURTH\n
+#####FIFTH\n
+######SIXTH\n
